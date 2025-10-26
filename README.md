@@ -106,3 +106,12 @@ Program ini dibangun menggunakan beberapa kelas yang masing-masing memiliki tang
 * **Layar Game Over**
     * **Tombol R**: Memulai ulang permainan (Restart).
     * **Tombol M**: Kembali ke Main Menu.
+
+
+
+**Dokumentasi**
+
+
+
+https://github.com/user-attachments/assets/7652cdba-dc06-4106-8f41-4f8a7bc1768f
+
